@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+        <trackList>
+      <track><location>upload/Bon Iver - Calgary.mp3</location>
+          <title>Calgary</title>
+          <creator>Bon Iver</creator>
+          <image>http://images.amazon.com/images/P/ASIN/B004XE0P5E</image>
+          <album>Bon Iver, Bon Iver</album>
+          </track>
+<track><location>upload/Bon Iver - Calgary.mp3</location>
+          <title>Streets of Philadelphia</title>
+          <creator>Bruce Springsteen</creator>
+          <image>http://images.amazon.com/images/P/ASIN/B0000029F1</image>
+          <album>Philadelphia: Music From the Motion Picture</album>
+          </track>
+<track><location>upload/Sufjan Stevens - Henney Buggy Band.mp3</location>
+          <title>Chicago</title>
+          <creator>Sufjan Stevens</creator>
+          <image>http://images.amazon.com/images/P/ASIN/B000FZESMQ</image>
+          <album>Little Miss Sunshine</album>
+          </track>
+<track><location>upload/JoshWoodward-Swansong.mp3</location>
+          <title>Loba</title>
+          <creator>Shakira</creator>
+          <image>http://images.amazon.com/images/P/ASIN/B002LIKMB6</image>
+          <album>She Wolf</album>
+          </track>
+<track><title>Swansong</title><creator>Josh Woodward</creator><image></image><album>Breadcrumbs</album></track></trackList>
+</playlist>
